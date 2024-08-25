@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syntax on TeXify3</title>
-    <link>https://michaelneuper.github.io/hugo-texify3/categories/syntax/</link>
+    <link>https://futuretenseconsulting.org/categories/syntax/</link>
     <description>Recent content in Syntax on TeXify3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>michael@michaelneuper.com (Michael Neuper)</managingEditor>
     <webMaster>michael@michaelneuper.com (Michael Neuper)</webMaster>
-    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelneuper.github.io/hugo-texify3/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://futuretenseconsulting.org/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mermaid Diagrams</title>
-      <link>https://michaelneuper.github.io/hugo-texify3/posts/mermaid-diagrams/</link>
+      <link>https://futuretenseconsulting.org/posts/mermaid-diagrams/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <author>michael@michaelneuper.com (Michael Neuper)</author>
-      <guid>https://michaelneuper.github.io/hugo-texify3/posts/mermaid-diagrams/</guid>
+      <guid>https://futuretenseconsulting.org/posts/mermaid-diagrams/</guid>
       <description>&lt;h2 id=&#34;flowchart&#34;&gt;Flowchart&lt;/h2&gt;
 &lt;div class=&#34;mermaid&#34;&gt;graph LR;
     A[Hard edge] --&gt;|Link text| B(Round edge)
@@ -146,10 +146,10 @@ test_entity - satisfies -&gt; test_req
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://michaelneuper.github.io/hugo-texify3/posts/markdown-syntax/</link>
+      <link>https://futuretenseconsulting.org/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>michael@michaelneuper.com (Michael Neuper)</author>
-      <guid>https://michaelneuper.github.io/hugo-texify3/posts/markdown-syntax/</guid>
+      <guid>https://futuretenseconsulting.org/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h2&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent five levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is for Title. &lt;code&gt;&amp;lt;h2&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest. With &lt;code&gt;numberedSubtitles&lt;/code&gt; param enabled, items will be numbered&lt;/p&gt;

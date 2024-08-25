@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy on TeXify3</title>
-    <link>https://michaelneuper.github.io/hugo-texify3/tags/privacy/</link>
+    <link>https://futuretenseconsulting.org/tags/privacy/</link>
     <description>Recent content in Privacy on TeXify3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>michael@michaelneuper.com (Michael Neuper)</managingEditor>
     <webMaster>michael@michaelneuper.com (Michael Neuper)</webMaster>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelneuper.github.io/hugo-texify3/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://futuretenseconsulting.org/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>https://michaelneuper.github.io/hugo-texify3/posts/rich-content/</link>
+      <link>https://futuretenseconsulting.org/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>michael@michaelneuper.com (Michael Neuper)</author>
-      <guid>https://michaelneuper.github.io/hugo-texify3/posts/rich-content/</guid>
+      <guid>https://futuretenseconsulting.org/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
